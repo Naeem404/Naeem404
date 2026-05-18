@@ -8,9 +8,9 @@ Toronto, ON
 ```
 
 Third-year SWE student. I like building things that get used — mostly full-stack apps,
-automation, and the occasional hackathon project at 3am in -30°C weather.
+automation, and the occasional hackathon project at 3am.
 
-Currently interning at Home Coffee Solutions where I work on pricing systems, internal
+was recently interning at Home Coffee Solutions where I worked on pricing systems, internal
 tooling, and e-commerce ops. Also president of MSA at York on the side.
 
 [naeem404.tech](https://www.naeem404.tech) · [linkedin](https://www.linkedin.com/in/naeem-baig/) · [naeem05@my.yorku.ca](mailto:naeem05@my.yorku.ca)
