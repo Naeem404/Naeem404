@@ -1,6 +1,6 @@
-## hey, i'm naeem
+## hey, i'm Naeem
 
-Third-year software engineering student at York University (Lassonde). I like building things that get used — full-stack apps, automation, and the occasional hackathon project at 3am in -30°C weather.
+Third-year software engineering student at York University (Lassonde). I like building things that get used — full-stack apps, automation, and the occasional hackathon project at 3am.
 
 Currently interning at Home Coffee Solutions working on pricing systems, internal tooling, and e-commerce ops. Also president of MSA at York on the side.
 
