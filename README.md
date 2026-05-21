@@ -57,7 +57,3 @@ tools        git · linux · figma · affinity
 President @ YorkU MSA · YEC Chair (500+ students, 9 categories) · VP External @ Lassonde Engineering Society · Founded Design Dash · 1st place YEC Debate, advanced to OEC provincials
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Naeem404&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="55%"/>
-</div>
