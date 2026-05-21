@@ -21,21 +21,21 @@ tools        git · linux · figma · affinity
 
 ### projects
 
-**[Flare](https://github.com/Naeem404/Flare)** — proximity SOS beacon over Bluetooth for when infrastructure fails. 2nd place @ UmmahHacks.
+**[Flare](https://github.com/Naeem404/Flare)** - proximity SOS beacon over Bluetooth for when infrastructure fails. 2nd place @ UmmahHacks.
 
-**[RealityCheck](https://github.com/Naeem404)** — mental health app rooted in Adlerian psychology, model trained on Reddit data. React, Flask, TensorFlow, OpenAI, GCP.
+**[RealityCheck](https://github.com/Naeem404)** - mental health app rooted in Adlerian psychology, model trained on Reddit data. React, Flask, TensorFlow, OpenAI, GCP.
 
-**[MarketMate](https://github.com/Naeem404)** — AI investment assistant. Top 10 @ NSBEHacks (UofT). React, Node.js, Python, OpenAI.
+**[MarketMate](https://github.com/Naeem404)** - AI investment assistant. Top 10 @ NSBEHacks (UofT). React, Node.js, Python, OpenAI.
 
-**[Renty](https://github.com/Naeem404)** — rental decision platform with reviews and data for Canadian tenants. React, Node/Express.
+**[Renty](https://github.com/Naeem404)** - rental decision platform with reviews and data for Canadian tenants. React, Node/Express.
 
 <details>
 <summary>more</summary>
 
-- **Salah Signal** — Chrome extension for prayer time reminders (first hackathon project)
-- **York Hawks Bot** — autonomous vehicle nav, Python + robotics
-- **Purrlock Holmes** — interactive narrative game with branching mission logic
-- **Internal tools** — e-commerce platform, scrapers, automation suite (NDA)
+- **Salah Signal** - Chrome extension for prayer time reminders (first hackathon project)
+- **York Hawks Bot** - autonomous vehicle nav, Python + robotics
+- **Purrlock Holmes** - interactive narrative game with branching mission logic
+- **Internal tools** - e-commerce platform, scrapers, automation suite (NDA)
 
 </details>
 
